@@ -1,0 +1,9 @@
+/target
+Cargo.lock
+/parts
+/build
+/booktore
+/aparter/parts
+/custom_public_domain
+palabras.on
+.DS_Store
